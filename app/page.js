@@ -1,5 +1,9 @@
 import Image from "next/image";
 
 export default function page() {
-  return <h1>hellow next </h1>;
+  return (
+    <div>
+      <h1> the wild oasis .Welcom</h1>
+    </div>
+  );
 }
