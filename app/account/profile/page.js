@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import SelectCountry from "@/app/_components/SelectCountry";
 
 export const metadata = {
